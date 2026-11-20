@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "b7e9ac57-66ec-437a-8c99-30af26de9dfa",
+  "author": "Making workspace",
+  "description": {
+    "": "Create native, grouped box joints from butted panel bodies."
+  },
+  "version": "0.3.0",
+  "runOnStartup": false,
+  "supportedOS": "mac|windows"
+}
