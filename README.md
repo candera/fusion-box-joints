@@ -79,3 +79,7 @@ Version 0.1.2 uses a single two-face selector, accepts either pick order, and re
 Tested in Autodesk Fusion 2706.1.17 on macOS on 2026-11-20. Native recompute passed after changes to panel height, both stock thicknesses, tab count, and clearance. A 2 mm upstream fillet away from the seam survived. Separate local components, two independently grouped corners on one receiving panel, and a roughly 76° corner also passed. No parts have been cut.
 
 Next step for a shop trial is to cut a short joint coupon in the intended stock and adjust the clearance for the measured fit.
+
+## License
+
+[MIT](LICENSE)
